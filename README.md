@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aaikoala
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, python, linux
-- ⚡ Fact: Start programming recently
-- 😊 I am curious of learning new things
+- 🌱 I’m currently learning C#, Python, Linux, Sql
+- ⚡ Fact: Start programming 2 years ago
+- 😊 I am currently learning cybersecurity
+- 🎯 I wish to be an engineer
