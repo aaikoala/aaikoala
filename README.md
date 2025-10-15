@@ -4,4 +4,4 @@
 - ⚡ Fact: Start programming 3 years ago
 - 😊 I am currently learning cybersecurity
 - 🎯 I wish to be an engineer
-- ❗Activily seeking for an internship/ apprenticeship
+- ❗Activily seeking for an internship
